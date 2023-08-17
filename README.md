@@ -1,4 +1,4 @@
-- 👋 Oi, sou @MikeWazTr ou Cláudio Pereira
+- 👋 Oi, sou @Claudio-Arauj ou Cláudio Pereira
 - 👀 Sou interessado no universo geek em geral e gosto das novas tecnologias
 - 🌱 Atualmente estou estudando na Faculdade CERES UFRN no curso de BSI
 - 📫 Pode me contatar pelo instagram @claudio_mtr
