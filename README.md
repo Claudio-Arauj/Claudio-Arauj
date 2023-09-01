@@ -28,4 +28,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Arauj&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Claudio-Arauj&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/Claudio-Arauj/Claudio-Arauj/blob/output/github-contribution-grid-snake.svg)
