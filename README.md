@@ -1,9 +1,31 @@
-- 👋 Oi, sou @Claudio-Arauj ou Cláudio Pereira
-- 👀 Sou interessado no universo geek em geral e gosto das novas tecnologias
-- 🌱 Atualmente estou estudando na Faculdade CERES UFRN no curso de BSI
-- 📫 Pode me contatar pelo instagram @claudio_mtr
+<h2 align="center"> 
+  Olá, eu sou Cláudio Pereira 
+</h2>
 
-<!---
-MikeWazTr/MikeWazTr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <p align="center"> 🌱 Atualmente estou estudando na Faculdade CERES UFRN no curso de BSI </p>
+
+##
+
+  📫 Endereços de Contato:
+  
+  <a href="mailto:claudioaraujo0109@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+
+##
+
+  <h3> Linguagens Conhecidas: </h3>
+    
+ <p>
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,c" />
+    </a>
+ </p>
+
+##
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Arauj&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Claudio-Arauj&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+![Snake animation](https://github.com/Claudio-Arauj/Claudio-Arauj/blob/output/github-contribution-grid-snake.svg)
