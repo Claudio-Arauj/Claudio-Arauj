@@ -27,6 +27,9 @@
 
 ##
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Claudio-Arauj&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Claudio-Arauj&theme=dark&mode=weekly)](https://git.io/streak-stats)
+<div align="center" width="100vh">
+  <a href="https://github.com/Claudio-Arauj">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Claudio-Arauj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Claudio-Arauj&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
