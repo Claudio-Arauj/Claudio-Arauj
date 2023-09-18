@@ -1,6 +1,6 @@
-<h2 align="center"> 
-  Olá, eu sou Cláudio Pereira 
-</h2>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3d85c6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Cláudio+Pereira;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+
 
   <p align="center"> 🌱 Atualmente estou estudando na Faculdade CERES UFRN no curso de BSI </p>
 
