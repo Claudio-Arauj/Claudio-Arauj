@@ -10,8 +10,7 @@
 
 ### 👨‍🎓 Sobre mim
 
-🎓 Estudante de **Bacharelado em Sistemas de Informação** atualmente na **UFRN CERES**  
-💻 Apaixonado por tecnologia
+🎓 Estudante de **Bacharelado em Sistemas de Informação** atualmente na **UFRN CERES**   
 🚀 Sempre em busca de aprender algo novo e contribuir com a comunidade
 
 ---
